@@ -1,0 +1,14 @@
+<html>
+<head>
+	<title>Red Rectangle</title>
+	<style>
+		.rectangle {
+			width: 200px;
+			height: 100px;
+			background-color: red;
+		}
+	</style>
+</head>
+<body>
+	<div class="rectangle"></div>
+</body>
